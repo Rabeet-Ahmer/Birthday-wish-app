@@ -83,7 +83,7 @@ export default function BirthdayWish(){
 
                 <Card className="mx-auto overflow-hidden transition-all duration-300 ease-in-out hover:shadow-xl border-2 border-black">
                     <CardHeader className="text-center">
-                        <CardTitle className="text-4xl font-bold text-black">Happy ∞∞∞ Birthday!</CardTitle>
+                        <CardTitle className="text-4xl font-bold text-black">Happy ∞∞∞<sup>th</sup> Birthday!</CardTitle>
                         <CardDescription className="text-2xl font-semibold text-gray-600">
                             To Horse
                         </CardDescription>
